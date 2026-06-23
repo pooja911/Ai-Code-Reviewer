@@ -16,7 +16,7 @@ export default function App() {
     setSuccess(false);
 
     try {
-      const response = await fetch("http://localhost:3000/review", {
+      const response = await fetch(`${import.meta.env.VITE_API_URL}/review`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ prUrl, shouldPostComment: postComment })
