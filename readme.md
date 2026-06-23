@@ -10,6 +10,7 @@ A full stack application that reviews GitHub Pull Requests using Groq AI (Llama 
 ## 📸 Demo
 <img width="1065" height="2637" alt="image" src="https://github.com/user-attachments/assets/055775df-44f8-4f25-b647-057333575a5c" />
 
+<img width="1318" height="1023" alt="image" src="https://github.com/user-attachments/assets/5333f8c7-e099-4722-b664-ed7295528ee1" />
 
 ---
 
