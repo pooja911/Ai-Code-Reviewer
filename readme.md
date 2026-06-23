@@ -9,6 +9,7 @@ A full stack application that reviews GitHub Pull Requests using Groq AI (Llama 
 
 ## 📸 Demo
 
+
 ---
 
 ## 🚀 What It Does
@@ -17,9 +18,8 @@ A full stack application that reviews GitHub Pull Requests using Groq AI (Llama 
 
 **1. Dashboard (manual)**
 
-* Paste any public GitHub PR link into the React dashboard
-* Click Review — get an instant AI review on screen
-* Choose whether to also post it as a comment on the PR
+* https://ai-code-reviewer-b6pb.onrender.com/
+* https://auto-ai-code-review.netlify.app/
 
 **2. Webhook (automatic)**
 
