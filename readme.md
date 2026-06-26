@@ -21,7 +21,7 @@ A full stack application that reviews GitHub Pull Requests using Groq AI (Llama 
 **1. Dashboard (manual)**
 
 * https://ai-code-reviewer-b6pb.onrender.com/
-* https://auto-ai-code-review.netlify.app/
+* https://ai-code-reviewer1.netlify.app/
 
 **2. Webhook (automatic)**
 
